@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+yotubeapi/
+
 # Distribution / packaging
 .Python
 build/
